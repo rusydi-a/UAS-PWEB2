@@ -29,7 +29,7 @@ GadgetRealm adalah sistem informasi logistik yang dikhususkan untuk kebutuhan du
 - Pada login pimpinan, terdapat menu penyimpanan logistik, logistik penerimaan, dan logistik pengiriman. Pimpinan dapat melihat dan memantau data serta mengekspor data menggunakan tombol export data.
 
 ## 7. Fitur Umum untuk Setiap User Level:
-- Setiap kali pengguna login, informasi tentang role atau User Level, nama user, email user, dan tombol profil untuk melihat data pribadi tersedia.
+- Setiap kali pengguna login, terdapat informasi tentang role atau User Level, nama user, email user, dan tombol profil untuk melihat data pribadi tersedia.
 - Terdapat tombol logout untuk keluar dari sistem.
 
 Data logistik GadgetRealm memiliki dampak yang signifikan pada setiap User Level pengguna. Untuk informasi lebih lanjut, diharapkan untuk mencoba sistem informasi ini secara langsung. Berikut email dan passwordnya:
