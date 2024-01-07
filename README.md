@@ -1,6 +1,6 @@
 # Informasi Detail Mengenai Sistem Informasi GadgetRealm
 
-GadgetRealm merupakan sistem informasi logistik yang telah dirancang secara cermat untuk memenuhi kebutuhan berbagai User Level, yakni admin, pimpinan, dan supplier. Sistem ini menghadirkan akses yang terpisah sesuai dengan peran dan tanggung jawab masing-masing User Level.
+GadgetRealm adalah platform logistik yang dikhususkan untuk kebutuhan dunia gadget. Dengan perancangan yang teliti, sistem informasi ini dirancang untuk memenuhi kebutuhan berbagai User Level, yakni admin, pimpinan, dan supplier. Sistem ini menghadirkan akses yang terpisah sesuai dengan peran dan tanggung jawab masing-masing User Level.
 
 ## 1. Portal
 - Portal Logistik GadgetRealm menyajikan informasi komprehensif tentang aplikasi dan menyediakan tombol masuk untuk melakukan login dan registrasi.
